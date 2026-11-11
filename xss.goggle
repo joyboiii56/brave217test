@@ -1,0 +1,8 @@
+! name: XSS217<h1>name</h1><img src=x onerror="document.title='XSS217name'">
+! description: XSS217desc<script>document.title='XSS217d'</script>
+! public: true
+! author: XSS217auth<svg onload="document.title='XSS217a'">
+! homepage: javascript:document.title='XSS217h'
+! issues: javascript:document.title='XSS217i'
+
+$boost,site=example.com
