@@ -1,0 +1,6 @@
+! name: <img src=x onerror=alert(217)>
+! description: <script>alert('217desc')</script>
+! public: true
+! author: <svg onload=alert('217auth')>
+
+$boost,site=example.com
