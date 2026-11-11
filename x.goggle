@@ -1,0 +1,6 @@
+! name: Zq217Probe
+! description: brave217-hosted-probe
+! public: true
+! author: oob217
+
+$boost,site=example.com
